@@ -20,7 +20,7 @@ const Description = ({ state, match }) => {
               cursor: "pointer",
               marginRight:20
             }}
-          >&#10006;</div>
+          ></div>
         </NavLink>
       </div>
     </div>
